@@ -1,13 +1,23 @@
-.foodImg {
-  width: 100%;
-  margin-bottom: 0px;
+
+.carousel {
+  height: 900px;
 }
-h1{
+
+.carousel-item .carousel img {
+  width: 100%;
+}
+
+.row {
+  margin: 0;
+}
+
+h1 {
   color: white;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  
+  margin: 0;
+  background-color: rgb(212, 120, 50);
 }
 
 .container {
@@ -21,9 +31,9 @@ h1{
 .collapsible-header {
   background-color: rgb(212, 120, 50);
 }
-.collapsible
-{
-  margin-top:0px;
+
+.collapsible {
+  margin: 0;
 }
 
 .active {
