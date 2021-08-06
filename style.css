@@ -1,0 +1,39 @@
+.foodImg {
+  width: 100%;
+  margin-bottom: 0px;
+}
+h1{
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+
+.container {
+  background-color: rgb(29, 117, 163);
+}
+
+.background {
+  background-color: rgb(182, 201, 13);
+}
+
+.collapsible-header {
+  background-color: rgb(212, 120, 50);
+}
+.collapsible
+{
+  margin-top:0px;
+}
+
+.active {
+  background-color: rgb(29, 117, 163);
+}
+
+p {
+  font-size: 30px;
+}
+
+li {
+  font-size: 30px;
+}
